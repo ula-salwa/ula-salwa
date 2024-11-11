@@ -1,6 +1,6 @@
 ## Hi, I'm Urszula! 
 
-👩‍💻 **QA Engineer** looking to transition to **ML Engineer**<br/>
+👩‍💻 **QA Engineer** looking to transition to **ML Engineering**<br/>
 👩‍🎓 *B.Sc. Industrial Engineering & Management* from *Jacobs University* in Bremen, Germany<br/>
 💭 Currently learning about **ML algorithms**<br/>
 🏡 Based in Kraków, PL | Open to Relocation
