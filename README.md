@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Urszula! 
 
-👩‍💻 **QA Engineer** working on core trading systems in a C# microservice environment
+👩‍💻 **QA Engineer** working on core trading systems in a C# microservice environment<br/>
 💭 Currently learning about **Test Automation and MCP Servers**<br/>
-🔍 Interested in improving test architecture and automation frameworks
+🔍 Interested in improving test architecture and automation frameworks<br/>
 👩‍🎓 *B.Sc. Industrial Engineering & Management* from *Jacobs University* in Bremen, Germany<br/>
 🏡 Based in Kraków, PL
 
