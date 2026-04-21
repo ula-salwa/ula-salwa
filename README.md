@@ -1,8 +1,9 @@
 ## 👋 Hi, I'm Urszula! 
 
-👩‍💻 **QA Engineer** interested in **ML/AI in finance**<br/>
+👩‍💻 **QA Engineer** working on core trading systems in a C# microservice environment
+💭 Currently learning about **Test Automation and MCP Servers**<br/>
+🔍 Interested in improving test architecture and automation frameworks
 👩‍🎓 *B.Sc. Industrial Engineering & Management* from *Jacobs University* in Bremen, Germany<br/>
-💭 Currently learning about **ML algorithms**<br/>
 🏡 Based in Kraków, PL
 
 ## 💻 Tech Stack:
